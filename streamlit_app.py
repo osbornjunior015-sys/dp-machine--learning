@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title(🚩'Fraud Detection App')
+st.title(🚩'Machine Learning App')
 
-st.info(This is a Fraud Dtecetion App)
+st.info(this is a machine learning app)
